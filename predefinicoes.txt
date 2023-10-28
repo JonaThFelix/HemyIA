@@ -1,0 +1,36 @@
+Os arquivos de predefinições são as entradas que estão sendo usadas nas listas.
+Esse arquivo contém as condições e posições que estão inicialmente configuradas para a Hemy lhe atender.
+
+A ideia é que sempre que algo da predefinição for atualizado ou alterado, que seja incluído aqui, isso serve para o usuário que não
+conhece o sistema saiba os passos e comandos que ativará a Hemy.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Atualizado em 02/09/2023
+
+ola = ["oi", "ola","ola hemy","ei hemy","OI","Hello","olá","opa","eai","eae","iae","OI"]
+bd = ["bom dia","bom dia hemy","BOM DIA","dia","DIA"]
+bt = ["boa tarde","boa tarde hemy","Boa Tarde","TARDE"]
+bn = ["boa noite","boa noite hemy","Boa Noite","NOITE"]
+xau = ["xau","tchau","adeus","sair","ate logo","ate mais","xau hemy","ate depois","vou embora"]
+estado = ["tudo bem com vc?","tudo bem contigo","como voce esta?","como voce ta?","como você está?","como vai voce?","como vai hemy?","tudo bem?","beleza?","como voce esta hoje?","como esta se sentindo?","como ta voce?","voce ta bem?"]
+apresentacao = ["qual o seu nome","hemy","qual e o seu nome?","nome","qual seu nome?","seu nome?","como se chama?","como é o seu nome?","como e o seu nome","teu nome?","name","nome?","como voce se chama?"]
+hora = ["que horas são?","a hora atual?","hora atual","horas","horario","que horas?","me diga a hora","horário","que horas sao?" ,"que hora e?","que horas é?"]
+tempo = ["tempo","qual e o tempo?","qual é o tempo?","tempo","boletim do tempo","tempo atual","tempo aberto","boletim do tempo aberto","Qual é o tempo?","Boletim do tempo","Tempo atual","Tempo aberto","Abra o boletim meteorológico","previsao do tempo"]
+google = ["google","abra o google","google","Abra o google","Google","GOOGLE","abrir o google"]
+calendario = ["calendario","abra o calendario","mostre o calendario","abrir o calendario","abrir calendario"]
+news = ["noticias","me mostre as noticias","abrir noticias","news","ver noticias"]
+youtube = ["youtube","abrir o youtube","abrir youtube","abra o youtube"]
+notepad = ["abra o bloco de notas","bloco de notas", "notepad","abra o bloco de nota","abrir bloco de notas"]
+gmail = ["abra o gmail","gmail","enviar gmail","GMAIL","abrir gmail","abrir o gmail"]
+av = ["aumentar volume","aumente o volume","aumentar volume","aumentar o volume"]
+dv = ["diminua o volume","diminuir volume","diminuir o volume","abaixe o volume","abaixar volume","abaixar o volume"]
+vm = ["mutar","mutar volume","mutar o volume","mute"]
+vum = ["desmutar volume","desmutar o volume","desmutar"]
+webcam = ["webcam","abrir camera","tire uma foto","tirar foto","ligar webcam"]
+gmailsent = ["gmail","enviar gmail","envie um gmail","enviar um gmail"]
+screenshot = ["print","printscreen","tire um print","print a tela","printscreen","captura de tela"]
+desligar = ["desligue o computador","desligar","desligue","desligue a maquina","desligue o notebook"]
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                Próximos passos:
