@@ -7,5 +7,6 @@ Obs.: Versão sempre em atualização, ainda planejando aplicar o selenium para 
 </br>
 Para o código funcionar deve-se atentar as bibliotecas necessárias. </br>
 
-![image](https://github.com/JonaThFelix/HemyIA/assets/123984244/2346e59f-17a4-4a7f-ac57-695253c532ba)
 
+
+![hemyIA](https://github.com/JonaThFelix/HemyIA/assets/123984244/86ec1a54-cad0-4d69-8780-a54b1a4623a9)
