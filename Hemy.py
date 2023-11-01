@@ -13,15 +13,7 @@ import pyautogui
 import time
 import win32com.client as wincl 
 speak = wincl.Dispatch("SAPI.SpVoice")
-# from selenium import webdriver 
-# from selenium.webdriver.common.keys import Keys 
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
 
-################################################
-
-# Local para criar a senha se necessário, cole aqui o código em "Proteção de senha para Hemy code.txt" !
 
 ################################################
 
