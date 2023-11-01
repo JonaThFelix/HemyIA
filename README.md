@@ -10,3 +10,5 @@ Para o código funcionar deve-se atentar as bibliotecas necessárias. </br>
 
 
 ![hemyIA](https://github.com/JonaThFelix/HemyIA/assets/123984244/86ec1a54-cad0-4d69-8780-a54b1a4623a9)
+</br>
+![hemy](https://github.com/JonaThFelix/HemyIA/assets/123984244/7054ea85-3324-4144-b313-3d5a7f8e1be4)
