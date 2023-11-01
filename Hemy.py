@@ -98,10 +98,10 @@ if nome == "jonathan" or nome == "john" or nome == "JONATHAN" or nome == "JOHN":
 
 
 # ----------------------------------------- APRESENTAÇÃO DA BOT ----------------------------------------------------------------------------#
-# speak.Speak(f'Ok, {nome}')
-# speak.Speak('Primeiramente vou me apresentar. me chamo, Hemy, e sou um bot assistente virtual. ainda estou em desenvolvimento, porém, você pode me fazer perguntas objetivas que será um prazer lhe responder.')
-# speak.Speak('Peço gentilmente que utilize frases em minúsculo. Não use acentuação como til, ou agudo, não use caixa alta,nem abreviação, e por gentileza, se fizer alguma pergunta use o sinal de interrogação no final da frase')
-# speak.Speak('Eu quase me esqueci, para atividade via WEB, minha configuração padrão é acionada apenas no navegador. GOOGLE CHROME')
+speak.Speak(f'Ok, {nome}')
+speak.Speak('Primeiramente vou me apresentar. me chamo, Hemy, e sou um bot assistente virtual. ainda estou em desenvolvimento, porém, você pode me fazer perguntas objetivas que será um prazer lhe responder.')
+speak.Speak('Peço gentilmente que utilize frases em minúsculo. Não use acentuação como til, ou agudo, não use caixa alta,nem abreviação, e por gentileza, se fizer alguma pergunta use o sinal de interrogação no final da frase')
+speak.Speak('Eu quase me esqueci, para atividade via WEB, minha configuração padrão é acionada apenas no navegador. GOOGLE CHROME')
 
 while True:
         
