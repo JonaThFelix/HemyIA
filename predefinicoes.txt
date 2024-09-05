@@ -34,3 +34,7 @@ desligar = ["desligue o computador","desligar","desligue","desligue a maquina","
 
 --------------------------------------------------------------------------------------------------------------------------------------
                                                 Próximos passos:
+
+Atualizado em: 04/09/2024 
+Criação da Hemy em Java para fins didáticos e manipulação da linguagem, intuito é refaze-la e explora-la com o máximo de funcionalidade possível que a linguagem ofereça, e
+obter um resultado de interface semelhante a um chat.
