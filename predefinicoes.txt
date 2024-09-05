@@ -5,7 +5,7 @@ A ideia é que sempre que algo da predefinição for atualizado ou alterado, que
 conhece o sistema saiba os passos e comandos que ativará a Hemy.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Atualizado em 02/09/2023
+#Última atualização em 02/09/2023
 
 ola = ["oi", "ola","ola hemy","ei hemy","OI","Hello","olá","opa","eai","eae","iae","OI"]
 bd = ["bom dia","bom dia hemy","BOM DIA","dia","DIA"]
